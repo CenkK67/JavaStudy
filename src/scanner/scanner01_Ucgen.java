@@ -20,6 +20,9 @@ public class scanner01_Ucgen {
         System.out.println("  "+ch+"  ");
         System.out.println(" "+ch+" "+ch+" ");
         System.out.println(ch+" "+ch+" "+ch);
+
+
+        //
     }
 
 }
